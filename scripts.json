@@ -4,6 +4,7 @@
         "imagen": "https:\/\/api.rekonise.com\/storage\/serve\/b64_NDIwOTM4LzE3MzUxNDU5MjQ3MDUtMTAwMDAwMjEwNS5qcGc",
         "nombre": "Hoho Hub - Blox Fruits",
         "script": "https:\/\/raw.githubusercontent.com\/acsu123\/HOHO_H\/main\/Loading_UI",
-        "descripcion": "(Key), autofarm, esp, tp to fruit, raids, etc"
+        "descripcion": "(Key), autofarm, esp, tp to fruit, raids, etc",
+        "key": true
     }
 ]
